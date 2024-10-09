@@ -1,4 +1,4 @@
-# Labelling Datasets using CLIP model
+# 2Labelling Datasets using CLIP model
 
 Objective of this project is to label a video/image dataset videos and images as per some tags that we provide. These tags can be based on our use case.<br />
 In this project we use CLIP model and sentence transformer to label videos and images. Currently only supports images.<br />
